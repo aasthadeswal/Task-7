@@ -1,4 +1,4 @@
-# Elevate-Labs-Task-7 (SQLite + Python Data Summary)
+(SQLite + Python Data Summary)
 
 🧮 Get Basic Sales Summary using SQLite and Python
 
